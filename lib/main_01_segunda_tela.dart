@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
 import 'main_11.dart';
 
-class Segunda_Tela_App extends StatelessWidget {
-  const Segunda_Tela_App({super.key});
+class Segunda_Tela_App01 extends StatelessWidget {
+  const Segunda_Tela_App01({super.key});
     
   @override  
   Widget build(BuildContext context) {

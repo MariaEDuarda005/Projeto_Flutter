@@ -76,7 +76,7 @@ class Projeto01AppState extends State<Projeto01AppScreen>{
                 Navigator.pop(context); // fecha o drawer
                 Navigator.push(
                   context, 
-                  MaterialPageRoute(builder: (context) => Segunda_Tela_App())
+                  MaterialPageRoute(builder: (context) => Segunda_Tela_App01())
                 );
               },
             )
